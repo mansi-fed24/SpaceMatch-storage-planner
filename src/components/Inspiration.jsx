@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 // ── Import your real Sortix photos ───────────────────────────────
 import pantryFullImg    from '../assets/pantry-full.jpg'
-import pantryJarsImg    from '../assets/pantry-jars.jpg'
+import pantryJarsImg    from '../assets/pantry-jars.png'
 import fridgeOrgImg     from '../assets/fridge-organised.jpg'
 import fridgeAfterImg   from '../assets/fridge-transform-afte-first-half.jpg'
 import drawerSpicesImg  from '../assets/cabinetpic2.jpg'

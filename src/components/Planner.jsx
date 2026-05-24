@@ -3,9 +3,9 @@ import { calculateFit } from '../utils/fitCalculator'
 import { storageItems } from '../data/storageItems'
 
 import drawerSpacesImg   from '../assets/drawer-spices.jpg'
-import fridgeOrgImg      from '../assets/fridge-organised.jpg'
-import pantryFullImg     from '../assets/pantry-full.jpg'
-import cabinetPlannerImg from '../assets/cabinet-pantry-planner.jpg'
+import fridgeOrgImg     from '../assets/fridge-organised.jpg'
+import pantryFullImg    from '../assets/pantry-full.jpg'
+import cabinetPlannerImg from '../assets/cabinet-pantry-img1.jpg'
 
 import drawerOrganizerImg from '../assets/products/drawer-organizer1.jpg'
 import spiceInsertImg from '../assets/products/spice-insert.jpg'

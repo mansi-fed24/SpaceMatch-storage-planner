@@ -9,7 +9,7 @@ import fridgeAfterImg   from '../assets/fridge-transform-afte-first-half.jpg'
 import drawerSpicesImg  from '../assets/cabinetpic2.jpg'
 import drawerOrgImg     from '../assets/drawer-organizer-img1.jpg'
 import cabinetPantryImg from '../assets/cabinet-pantry-img1.jpg'
-import cabinetLinenImg  from '../assets/cabinet-linen.jpg'
+import cabinetLinenImg  from '../assets/cabinet-linen.jpeg'
 import inspirationhero from '../assets/inspirationhero1.png'
 
 // ── All inspiration cards ────────────────────────────────────────

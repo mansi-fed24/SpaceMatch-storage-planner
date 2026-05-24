@@ -48,7 +48,7 @@ const POPULAR_SPACES = [
   { id: 'drawer', label: 'Drawer', desc: 'Organise your drawers', img: '/src/assets/drawer-spices.jpg' },
   { id: 'fridge', label: 'Fridge', desc: 'Maximise your fridge space', img: '/src/assets/fridge-organised.jpg' },
   { id: 'pantry', label: 'Pantry', desc: 'Organise your pantry', img: '/src/assets/pantry-full.jpg' },
-  { id: 'cabinet', label: 'Cabinet', desc: 'Smart cabinet organisation', img: '/src/assets/cabinet-pantry-img1.jpg' },
+  { id: 'cabinet', label: 'Cabinet', desc: 'Smart cabinet organisation', img: '/src/assets/cabinet-pantry-planner.jpg' },
 ]
 
 export default function Planner() {

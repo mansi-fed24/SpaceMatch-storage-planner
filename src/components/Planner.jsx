@@ -2,7 +2,7 @@ import { useState } from 'react'
 import { calculateFit } from '../utils/fitCalculator'
 import { storageItems } from '../data/storageItems'
 
-import drawerSpacesImg   from '../assets/drawer-spices.jpg'
+import drawerSpacesImg   from '../assets/drawer-spices1.jpg'
 import fridgeOrgImg     from '../assets/fridge-organised.jpg'
 import pantryFullImg    from '../assets/pantry-full.jpg'
 import cabinetPlannerImg from '../assets/cabinet-pantry-img1.jpg'

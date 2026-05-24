@@ -2,6 +2,11 @@ import { useState } from 'react'
 import { calculateFit } from '../utils/fitCalculator'
 import { storageItems } from '../data/storageItems'
 
+import drawerSpacesImg   from '../assets/drawer-spices.jpg'
+import fridgeOrgImg      from '../assets/fridge-organised.jpg'
+import pantryFullImg     from '../assets/pantry-full.jpg'
+import cabinetPlannerImg from '../assets/cabinet-pantry-planner.jpg'
+
 import drawerOrganizerImg from '../assets/products/drawer-organizer1.jpg'
 import spiceInsertImg from '../assets/products/spice-insert.jpg'
 import acrylicInsertImg from '../assets/products/bamboo-insert.jpg'
@@ -45,10 +50,10 @@ const SPACE_TYPES = [
 ]
 
 const POPULAR_SPACES = [
-  { id: 'drawer', label: 'Drawer', desc: 'Organise your drawers', img: '/src/assets/drawer-spices.jpg' },
-  { id: 'fridge', label: 'Fridge', desc: 'Maximise your fridge space', img: '/src/assets/fridge-organised.jpg' },
-  { id: 'pantry', label: 'Pantry', desc: 'Organise your pantry', img: '/src/assets/pantry-full.jpg' },
-  { id: 'cabinet', label: 'Cabinet', desc: 'Smart cabinet organisation', img: '/src/assets/cabinet-pantry-planner.jpg' },
+  { id: 'drawer',  label: 'Drawer',  desc: 'Organise your drawers',      img: drawerSpacesImg   },
+  { id: 'fridge',  label: 'Fridge',  desc: 'Maximise your fridge space', img: fridgeOrgImg      },
+  { id: 'pantry',  label: 'Pantry',  desc: 'Organise your pantry',       img: pantryFullImg     },
+  { id: 'cabinet', label: 'Cabinet', desc: 'Smart cabinet organisation',  img: cabinetPlannerImg },
 ]
 
 export default function Planner() {
